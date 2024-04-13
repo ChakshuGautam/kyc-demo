@@ -1,0 +1,17 @@
+{
+    "enter_aadhaar_number": "Enter your Aadhaar Number",
+    "enter_mobile_number": "Enter your Mobile Number",
+    "login": "Send OTP",
+    "please_enter_the_family_id": "Please enter the Aadhaar Number",
+    "not_valid_family_id": "Invalid aadhaar number, please try again.",
+    "not_valid_mobile": "Not a valid Mobile Number",
+    "otp_sent_successfully": "OTP sent successfully.",
+    "not_registered_on_family_id": "Don't have Family ID?",
+    "click_here": "Click Here",
+    "not_registered_mobile_number": "Not a registered Mobile Number",
+    "find_schemes_for_you": "Find Schemes for you",
+    "mobile": "Mobile",
+    "aadhaar": "Aadhaar",
+    "or": "or",
+    "welcome": "Welcome !"
+}

@@ -1,0 +1,42 @@
+{
+  "private": true,
+  "scripts": {
+    "addPackage": "cd packages && mkdir $PACKAGE && cd $PACKAGE && npm init -y && npx -p typescript tsc --init",
+    "build": "turbo run build",
+    "dev": "turbo run dev",
+    "start": "turbo run start --scope=passbook",
+    "lint": "turbo run lint",
+    "test": "turbo run test",
+    "test:watch": "turbo run test:watch",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "format:check": "prettier --check \"**/*.{ts,tsx,md}\"",
+    "prepare": "husky install",
+    "e2e:test": "npx cypress run",
+    "create-env": "touch apps/passbook/.env"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "config": "*",
+    "cypress": "^12.14.0",
+    "eslint": "^7.32.0",
+    "husky": "^8.0.3",
+    "postcss": "^8.4.22",
+    "prettier": "^2.5.1",
+    "tailwindcss": "^3.3.1",
+    "turbo": "^1.13.2"
+  },
+  "name": "passbook-frontend",
+  "packageManager": "yarn@1.22.19",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "husky": {
+    "hooks": {
+      "pre-commit": "echo \"[Husky] pre-commit\""
+    }
+  },
+  "dependencies": {
+    "daisyui": "^2.51.6"
+  }
+}

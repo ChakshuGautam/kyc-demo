@@ -1,0 +1,17 @@
+{
+    "schemes": "Schemes",
+    "scheme": "Scheme",
+    "transactions": "Benefit Ledger",
+    "total_family_benefits": "Total family benefits",
+    "services": "Services",
+    "Rs": "Rs",
+    "benefit_type": "Benefit Type",
+    "beneficiary": "Beneficiary",
+    "fy": "FY",
+    "no_schemes_available": "No schemes available for the selected filter.",
+    "no_transactions_available": "No transactions available for the selected filter.",
+    "cash": "Cash",
+    "in_kind": "In Kind",
+    "certificates": "Certificates",
+    "member": "Member"
+}

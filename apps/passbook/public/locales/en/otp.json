@@ -1,0 +1,15 @@
+{
+    "enter_otp": "Enter 6 digit OTP",
+    "otp_title": "OTP Sent on",
+    "submit": "Submit",
+    "time_remaining": "Time remaining",
+    "resend_otp": "Resend OTP",
+    "please_enter_the_otp": "Please enter the OTP",
+    "can_not_verify_otp": "OTP can not be verified, please try again later.",
+    "successful_logged_in": "Successfully Logged In",
+    "enter_aadhar_linked_mobile": "Register your mobile number",
+    "not_valid_mobile": "Not a valid Mobile Number",
+    "otp_sent_successfully": "OTP sent successfully.",
+    "message_mobile_number_add": "Mobile number registered successfully.",
+    "message_something_went_wrong": "Not able to process your request at the moment. Please try again later."
+}
