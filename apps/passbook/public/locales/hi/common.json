@@ -1,0 +1,17 @@
+{
+    "enter_aadhaar_number": "अपनी आधार संख्या दर्ज करें",
+    "enter_mobile_number": "अपना मोबाइल नंबर दर्ज करें",
+    "login": "ओ0 टी0 पी0 भेजें",
+    "please_enter_the_family_id": "कृपया आधार संख्या दर्ज करें",
+    "not_valid_family_id": "आपके द्वारा दर्ज किया गया आधार नंबर अमान्य है। कृपया अपने आधार नंबर की जाँच करें और पुनः प्रयास करें।",
+    "not_valid_mobile": "वैध मोबाइल नंबर नहीं",
+    "otp_sent_successfully": "ओटीपी सफलतापूर्वक भेजा गया।",
+    "not_registered_on_family_id": "फ़ैमिली आईडी नहीं हैं?",
+    "click_here": "यहाँ क्लिक करें",
+    "not_registered_mobile_number": "पंजीकृत मोबाइल नंबर नहीं",
+    "find_schemes_for_you": "अपने लिए योजनाएं ढूंढें",
+    "mobile": "मोबाइल",
+    "aadhaar": "आधार",
+    "or": "या",
+    "welcome": "स्वागत !"
+}

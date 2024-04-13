@@ -1,0 +1,15 @@
+{
+    "enter_otp": "6 अंकों का ओटीपी दर्ज करें",
+    "otp_title": "पर OTP भेजा गया",
+    "submit": "लॉगिन करें",
+    "time_remaining": "शेष समय",
+    "resend_otp": "ओटीपी पुनः भेजें",
+    "please_enter_the_otp": "कृपया ओटीपी दर्ज करें",
+    "can_not_verify_otp": "ओटीपी सत्यापित नहीं हुआ, कृपया बाद में पुनः प्रयास करें।",
+    "successful_logged_in": "सफल लॉग इन",
+    "enter_aadhar_linked_mobile": "अपना मोबाइल नंबर रजिस्टर करें",
+    "not_valid_mobile": "वैध मोबाइल नंबर नहीं",
+    "otp_sent_successfully": "ओटीपी सफलतापूर्वक भेजा गया।",
+    "message_mobile_number_add": "मोबाइल नंबर सफलतापूर्वक पंजीकृत हो गया है।",
+    "message_something_went_wrong": "आपके अनुरोध को संसाधित करने में समस्या हैं। कृपया कुछ समय बाद प्रयास करें।"
+}

@@ -1,0 +1,17 @@
+version: "3"
+
+services:
+  passbook:
+    build:
+      context: .
+      dockerfile: ./apps/passbook/Dockerfile    
+      args:
+        NEXT_PUBLIC_URL: ${NEXT_PUBLIC_URL}
+        NEXT_PUBLIC_ENVIRONMENT_ID: ${NEXT_PUBLIC_ENVIRONMENT_ID}
+        NEXT_PUBLIC_BACKEND_URL: ${NEXT_PUBLIC_BACKEND_URL}
+        NEXT_PUBLIC_DIGILOCKER_URL: ${NEXT_PUBLIC_DIGILOCKER_URL}
+        NEXT_PUBLIC_DIGILOCKER_CLIENT_ID: ${NEXT_PUBLIC_DIGILOCKER_CLIENT_ID}
+        NEXT_PUBLIC_BASE_PATH: ${NEXT_PUBLIC_BASE_PATH}
+        NEXT_PUBLIC_ASSET_PREFIX: ${NEXT_PUBLIC_ASSET_PREFIX}
+    ports:
+      - "5001:3000"

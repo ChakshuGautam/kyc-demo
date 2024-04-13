@@ -1,0 +1,17 @@
+{
+    "schemes": "योजनाएं",
+    "scheme": "योजना",
+    "transactions": "लाभ खाता",
+    "total_family_benefits": "कुल पारिवारिक लाभ",
+    "services": "सेवाएँ",
+    "Rs": "₹",
+    "benefit_type": "लाभ का प्रकार",
+    "beneficiary": "लाभार्थी",
+    "fy": "वित्तीय वर्ष",
+    "no_schemes_available": "चयनित फ़िल्टर के लिए कोई योजना उपलब्ध नहीं है।",
+    "no_transactions_available": "चयनित फ़िल्टर के लिए कोई लेनदेन उपलब्ध नहीं है।",
+    "cash": "नक़द",
+    "in_kind": "वस्तु के रूप में",
+    "certificates": "प्रमाणपत्र",
+    "member": "सदस्य"
+}
