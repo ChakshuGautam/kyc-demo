@@ -15,7 +15,7 @@ export default function Index() {
   useEffect(() => {
     setTimeout(() => {
       setLaunch(false);
-      router.push("/login");
+      router.push("/home");
     }, 2000);
   }, []);
 
